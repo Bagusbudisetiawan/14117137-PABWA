@@ -1,0 +1,17 @@
+1. Lakukanlah perubahan pada kode HTML sesuai keinginan anda,
+   Pernakah terjadi error ketika ada kesalahan kode?
+   jawab : pernah,ketika saya memasukkan kode <meta HTTP-EQUIV="REFRESH" content="0; url=/myweb/myurl">,hal ini dikarenakan            memasukkan kode yang salah,dan urlnya pun tanpa tujuan
+   
+2. Cobalah ubah nilai meta refresh <meta HTTP-EQUIV="REFRESH"
+   content="5; url=http://google.co.id"> apa yang terjadi?, maka jelaskan
+   apa diantara kegunaan meta dokumen?    
+   jawab : laman akan berpindah setelah waktu berlalu selama 5 secon dari laman yang telah kita buat ke laman google setelah saya               menggunakan script ini <meta HTTP-EQUIV="REFRESH"
+           content="5; url=http://google.co.id">,hal ini dikarenakan uniform resource locator diganti dengan url yang mengarahkan               ke google.co.id dan otomatis merefers sendiri selama 5 second sesuai dengan apa yang kita setting
+3. Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+   jawab : 
+   a. thread = mengelompokkan isi header ke dalam suatu tabel
+   b. tbody = mengelompokkan isi body ke suatu tabel
+   c. membuat baris di suatu tabel
+   d. th = mendefinisikan sel header di dalam sebuah tabel
+   e. td = mendefinisikan sel di dalam sebuah tabel
+	  
